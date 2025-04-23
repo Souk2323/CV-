@@ -1,5 +1,8 @@
 # documentation : Soukaina El kasmi 
-> Ce titre est écrit avec un `#`, ce qui signifie qu’il s’agit d’un titre de niveau 1 en Markdown. C’est le plus grand, il est utilisé ici pour afficher le nom complet.
+![Photo de femme en uniforme) (images/photo_uniforme.jpg)  
+> Ici, on insère une image nommée "photo_uniforme.jpg" située dans un dossier "images".  
+> Le texte "Photo de femme en uniforme" s’affichera si l’image ne peut pas être chargée.
+> Ce titre documentation suivie de mon prenom est écrit avec un `#`, ce qui signifie qu’il s’agit d’un titre en Markdown. C’est le plus grand, il est utilisé ici pour afficher le nom complet.
 
 **Email :** elsouk04@gmail.com  
 > Le mot "Email" est mis en gras grâce aux `**` entourant le texte.  
@@ -14,21 +17,18 @@
 > Cette ligne horizontale est créée avec trois tirets `---`. Elle sert à séparer visuellement les différentes sections du
 
 
-Devenir infirmière diplômée d'État au sein du regroupement IFSI Médecine Sorbonne Université.  
-> Une phrase simple, concise et claire qui présente l’objectif de carrière.
-
 ---
 
 ### Formation
-> Nouvelle section. Toujours avec `##` pour bien structurer le document.
+> Nouvelle section. Toujours avec `###` pour bien structurer le document.
 
 - **2025 — Licence 1 Sciences du Langage**  
   Université Sorbonne Nouvelle  
 > Une puce `-` commence la ligne. La date et l’intitulé sont en gras (`**`).  
 > Le nom de l’université est sur une nouvelle ligne (grâce aux deux espaces à la fin de la précédente).
 
-- **2024 — Licence Lettres et Langues Étrangères (niveau)**  
-  Université Sorbonne Nouvelle  
+- **2024 — Licence Lettres et Langues Étrangères**  
+  Sorbonne Université
 
 - **2023 — Baccalauréat Général**  
   Spécialités : SVT et HGGSP  
@@ -56,17 +56,9 @@ Devenir infirmière diplômée d'État au sein du regroupement IFSI Médecine So
 
 ---
 
-###### Centres d’intérêt
-> Titre de section pour montrer sa personnalité et ses passions.
 
-- Métiers de l’humain et du soin  
-- Lecture, langues, découverte de nouvelles cultures  
-- Engagement dans un parcours professionnel porteur de sens  
-> Même mise en forme que les compétences. Cette section permet de montrer tes valeurs et tes centres d’intérêt, en lien avec le métier d’infirmière.
 
----
-
-## Conclusion
+###### Conclusion
 > Le CV en Markdown est structuré grâce à des éléments simples :
 - `#`, `##`, `###` pour les titres
 - `**gras**` pour les informations importantes
