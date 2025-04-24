@@ -1,6 +1,7 @@
 # documentation : Soukaina El kasmi 
 ![Photo de femme en uniforme](IMG_5349.jpeg)
- Ici, on insère une image nommée "photo_uniforme.jpg" située dans un dossier "images".  
+ 
+ ## Ici, on insère une image nommée "photo_uniforme.jpg" située dans un dossier "images".  
  Le texte "Photo de femme en uniforme" s’affichera si l’image ne peut pas être chargé.
  Ce titre documentation suivie de mon prenom est écrit avec un `#`, ce qui signifie qu’il s’agit d’un titre en Markdown. C’est le plus grand, il est utilisé ici pour afficher le nom complet.
 
@@ -55,7 +56,6 @@ Comme pour la formation : gras sur le poste et l’année, suivi d’une courte 
 > Chaque compétence est sur une ligne avec une balise  `-`. Les phrases sont simples, claires, et sans verbe conjugué pour rester professionnelles.
 
 ---
-
 
 
 ###### Conclusion
